@@ -29,7 +29,7 @@ const Projects = () => {
               Others: Github"
           src={projectOne}
         />
-          <ProjectsCard
+        <ProjectsCard
           title="A wearable flexible graphene patch antenna design for wireless human motion monitoring. (ANTENNA DESIGN)"
           des=" A novel Laser-Induced Graphene (LIG) printed microstrip patch
             antenna operating at the 5.8-GHz unlicensed band is presented. The
@@ -64,7 +64,6 @@ const Projects = () => {
             responsive design implementation and Firebase for real-time database
             management."
           src={projectTwo}
-          
         />
         <ProjectsCard
           title="Chatting App"
@@ -108,7 +107,7 @@ const Projects = () => {
           des=" A Weather App is an application that provides users with real-time weather updates for their selected locations. It displays information such as temperature, humidity, wind speed, and weather conditions (e.g., sunny, rainy). Advanced features may include forecasts, radar maps, and alerts for severe weather, offering convenience and preparedness for users."
           src={projectTwo}
         />
-      
+
         <ProjectsCard
           title="CURD App"
           des=" A Curd App is a mobile or web application designed to help users manage their curd (yogurt) production process, track fermentation times, temperature settings, and ensure optimal conditions for making curd. It may provide features like reminders, recipe suggestions, and tips to improve the quality and consistency of homemade curd."
